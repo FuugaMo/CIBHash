@@ -7,7 +7,7 @@
 
 
 
-参考：
+**参考：**
 
 1. https://github.com/zexuanqiu/CIBHash
 2. https://github.com/Huenao/DPCHash_Baselines
